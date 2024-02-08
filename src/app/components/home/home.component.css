@@ -1,0 +1,5 @@
+.mi-carrusel-unico .owl-nav .owl-prev,
+.mi-carrusel-unico .owl-nav .owl-next {
+  position: absolute;
+  top: 10px; /* Ajusta según sea necesario */
+}
